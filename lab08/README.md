@@ -156,3 +156,5 @@ int s_calculation(int x, int y, int z, char a, char b) {
 
 
 Кропивницький | <a href="http://www.kntu.kr.ua/">ЦНТУ</a> | 2023
+
+
